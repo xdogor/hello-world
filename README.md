@@ -1,2 +1,8 @@
 # hello-world
-Atividade1 - Tópicos Especiais - ADS
+Atividade1 - Tópicos Especiais - ADS 
+**********************************************
+Acadêmico: Alan Alves de Carvalho <br>
+R.A.: 21118179-5<br>
+Curso: Análise e Desenvolvimento de Sistemas<br>
+Disciplina: Tópicos Especiais<br>
+**********************************************
